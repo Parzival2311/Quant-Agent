@@ -1,0 +1,17 @@
+langgraph
+langchain
+langchain-google-genai
+langchain-community
+backtrader
+chromadb
+yfinance
+sec-edgar-downloader
+pandas
+numpy
+sentence-transformers
+pydantic
+python-dotenv
+edgartools
+streamlit
+openpyxl
+langchain-groq
